@@ -9,7 +9,7 @@ public class DataTypes {
 
         short shortValue = 32767;
         Short shortObject = 32767;
-        int intValue = 2147483647;
+        int intValue = 2147483647; //-2147483648 to 2147483647
         Integer intObject = 2147483647;
 
         long longValue = 9223372036854775807L;
